@@ -1,0 +1,18 @@
+.list_style {
+  width: 600px;
+  margin: 80px auto;
+}
+.list_style td div {
+  float: right;
+}
+.list_style input {
+  width: 550px;
+}
+.list_style td input {
+  width: 400px;
+  float: left;
+}
+button:focus,
+input:focus {
+  box-shadow: none !important;
+}
